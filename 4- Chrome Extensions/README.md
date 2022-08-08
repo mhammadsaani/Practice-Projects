@@ -1,4 +1,3 @@
-# Practice-Projects
-This repository contains code and link to the projects I have build to improve my HTML/CSS/JavaScript Skills
+# Chrome Extensions 
 
-1. [A Responsive Blog Template](https://blog-webisite-scri.netlify.app/)
+Video Links to be added soon
