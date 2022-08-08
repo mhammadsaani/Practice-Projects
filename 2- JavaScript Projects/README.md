@@ -1,5 +1,4 @@
-# Practice-Projects
-This repository contains code and link to the projects I have build to improve my HTML/CSS/JavaScript Skills
+# Practice-Projects (JavaScript)
 
 1. [Unit Converter](https://hammad-sani-unit-converterr.netlify.app/)
 2. [Invoice Generator](https://hammad-sani-invoice-generator.netlify.app/)
