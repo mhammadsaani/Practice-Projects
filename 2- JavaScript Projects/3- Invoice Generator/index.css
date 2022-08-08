@@ -1,0 +1,127 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    min-width: 500px;
+    border: 2px #D1D4F4 solid;
+    border-radius: 6px;
+}
+
+
+#main{
+    background: #3A69D2;
+    height: 190px; 
+    color: white;
+    padding: 50px 90px;
+    text-align: center;
+}
+
+#main h1{
+    font-weight: 800;
+    line-height: 40px;
+    font-size: 40px;
+}
+
+#main h3{
+    font-weight: 400;
+    line-height: 28px;
+    font-size: 16px;
+}
+
+#content{
+    background: #1F2937;
+    height: 720px;
+    padding: 40px 38px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-style{
+    /* color:  */
+    padding: 14px 32px;
+    border: none;
+    border-radius: 10px;
+    background-color: #D1D4F4;
+    color: #4A4E74;
+    font-weight: 500;
+}
+
+.display{
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+}
+
+#content-main{
+    margin-top: 45px;
+}
+
+.task-total{
+    line-height: 20px;
+    color: #D5D4D8;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#work-price h3, #work-price h4{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #F5F5F5;
+    margin-bottom: 24px;
+}
+
+#work-price h4{
+     font-size: 20px;
+     font-weight: 500;
+}
+
+#work-price h3 span{
+    color: #D5D4D8;
+    font-size: 8px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.work-price h4 span{
+    color: #D5D4D8;
+    line-height: 20px;
+    font-weight: 500;
+}
+
+hr{
+    width: 470px;
+    color: #C3C6DB;
+}
+
+#card-price h5{
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-top: 11px;
+}
+
+#card-price h4{
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 11px;
+}
+
+#send-invoice{
+    width: 475px;
+    background: #3A69D2;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 172px;
+    display: block;
+    margin: 0 auto;
+}
